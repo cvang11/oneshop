@@ -1,0 +1,36 @@
+Dec 09, 2024 8:06:58 PM LoggerUtil logInfo
+INFO: Application started
+Dec 09, 2024 8:06:58 PM LoggerUtil logSevere
+SEVERE: Error occurred: Sample exception
+Dec 09, 2024 8:06:58 PM LoggerUtil logWarning
+WARNING: This is a warning message
+Dec 09, 2024 8:06:58 PM LoggerUtil logInfo
+INFO: Application ended successfully
+Dec 09, 2024 8:08:07 PM LoggerUtil logInfo
+INFO: Application started
+Dec 09, 2024 8:08:17 PM LoggerUtil logInfo
+INFO: Application started
+Dec 09, 2024 8:08:18 PM LoggerUtil logSevere
+SEVERE: Error occurred: Sample exception
+Dec 09, 2024 8:08:18 PM LoggerUtil logWarning
+WARNING: This is a warning message
+Dec 09, 2024 8:08:18 PM LoggerUtil logInfo
+INFO: Application ended successfully
+Dec 09, 2024 8:17:14 PM LoggerUtil logInfo
+INFO: Application started
+Dec 09, 2024 8:18:00 PM LoggerUtil logInfo
+INFO: Added new customer: her vang
+Dec 09, 2024 8:18:25 PM LoggerUtil logInfo
+INFO: Processed sale for customer ID 1
+Dec 09, 2024 8:20:15 PM LoggerUtil logInfo
+INFO: Added new product: laptop
+Dec 09, 2024 8:20:35 PM LoggerUtil logInfo
+INFO: Added new product: mouse
+Dec 09, 2024 8:20:51 PM LoggerUtil logInfo
+INFO: Added new product: keyboard
+Dec 09, 2024 8:21:03 PM LoggerUtil logInfo
+INFO: Processed sale for customer ID 1
+Dec 09, 2024 8:21:54 PM LoggerUtil logInfo
+INFO: Added new customer: john doe
+Dec 09, 2024 8:22:06 PM LoggerUtil logInfo
+INFO: Processed sale for customer ID 2
